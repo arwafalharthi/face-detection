@@ -8,6 +8,7 @@ pip install opencv-python
 pip install opencv-contrib-python
 ```
 after installed all the requirment , install the files .py .xml and the image we want to test
+
 in terminal go to folder location by 
 ```
 cd <folder address>
