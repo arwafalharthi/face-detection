@@ -1,5 +1,6 @@
 # face-detection
 face detection by using openCV and python
+
 for this project i used windows
 
 first of all you need to install Python, after Python installed , open cmd and start install openCV
