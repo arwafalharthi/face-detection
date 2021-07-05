@@ -22,6 +22,7 @@ when we run this command, that will open the image with detection like this
 
 ## Video
  after installed all the requirment , install the files .py .xml 
+ 
 in terminal go to folder location by 
 ```
 cd <folder address>
